@@ -17,9 +17,45 @@
 }
 
 .menu_portada {
-
+display:none;
+}
+.menu_portada:hover{
+    display:block;
+    color:green;
 }
 
 .cabecera2 {
+
+}
+
+.seccion_principal_portada {
+
+}
+
+.articulo_principal_portada {
+
+}
+
+.cabecera_articulo_principal {
+
+}
+
+.articulo_secundario_portada {
+
+}
+
+.cabecera_articulo_secundario {
+
+}
+
+.pestaña_vertical {
+
+}
+
+.enlace_pestaña {
+
+}
+
+.contenido_pestaña {
 
 }
